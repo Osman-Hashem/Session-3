@@ -12,7 +12,7 @@ namespace Ass_3
         static void Main()
         {
 
-            #region Part 01 : 
+            #region Part 01 :
 
             #region Q01 : 
             //// What is the primary purpose of an interface in C# ?
